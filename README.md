@@ -1,2 +1,0 @@
-# Quickbase
-Interview code exercise
